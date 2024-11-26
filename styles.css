@@ -1,0 +1,19 @@
+body {
+    color: white;
+    background: black;
+}
+
+header{
+    element.style 
+        border: solid 2px white;
+     
+}    
+
+element.style {
+    background: red;
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
